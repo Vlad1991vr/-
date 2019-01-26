@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    </head>
+    <body>
+        <main class="ad_banner">
+            
+            <img id="header_logo" src="assets/main_logo.png">
+            
+            <section class="initial">
+                <img id="magnet_bg" src="assets/magnet_bg.png">
+    
+                <p id="tt">New Free Training from Ari:</p>
+                
+                <div id="headline">
+                    <p id="text_headline">The Secret to Easily Crafting a Mouth-Watering Offer That Your Tribe <b>Cannot Resist</b></p>
+                </div>
+                
+                <div id="white_box">
+                    <div id="content">
+                        <p id="cta_text" class="redText">Tuesday, September 13<sup>th</sup>, 12:30pm EST</p>
+                        <button class="cta">register now</button>
+                    </div>
+                </div>   
+                <div id="scroll_action">
+                    <img id="arrow_scroll" src="assets/arrow_scroll.png">
+                </div>
+            </section>
+        
+            <section class="grids_wrapper">
+                <div id="col1" class="column">
+                    <div id="video_play_placeholder" class="absoluteSize">
+                        <div id="video_play_circle">
+                            <div id="triangle"></div>
+                        </div>
+                        <div id="gradient_white" class="absoluteSize"></div>
+                    </div>                    
+                </div>
+                <div id="col2" class="column">
+				 <button id="cta2" class="cta"><strong>register now</strong></button>
+<p style="color:#000066"  align="center"><strong>IN THIS NEW TRAINING</strong></p> 
+<p style= "color:#000066" align="center"><strong>WE`LL COVER:</strong> </p>
+<p  style="color:black" align="center"><strong>Why the right OFFER generates more  results than any </strong></p> 
+<p   style="color:black" align="center"><strong>other part of your message </strong></p> 
+<p  style="color:black" align="center"><strong>The 6 steps to easily craft an irresistible OFFER, everytime </strong></p> 
+<p  style="color:black" align="center"><strong>The 3 pillars of every irresistible offer(miss one and the offer is boring)</strong></p> 
+<p   style="color:black" align="center"><strong>The simle formula: HV + LI = Irresistible Offet</strong></p> 
+<p  style="color:black" align="center"><strong>PLUS! An on-camera live Q&A at the end to ask Ari....</strong></p> 
+<p style="color:black"align="center"><strong>anything!</strong> 
+ 
+</p> 
+
+				
+				
+                    <button id="cta2" class="cta">register now</button>
+                </div>
+            </section>
+            <div id="footer">     
+                <h1 id="bottom_text" class="footer_h2">Here`s what people are saying:</h1>
+            </div>
+        </main>
+    </body>
+</html>
+
